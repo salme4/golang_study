@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-func main()  {
+func main10()  {
 	//exam 1 : 반복문 Loop label 사용
 Loop1:
 	for i := 0; i < 5; i++ {
