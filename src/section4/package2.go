@@ -5,6 +5,6 @@ import (
 	"section4/lib"
 )
 
-func main() {
+func main2() {
 	fmt.Println("10보다 큰 수?", lib.CheckNum(15))
 }
