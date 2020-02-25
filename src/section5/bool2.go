@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-func main() {
+func main2() {
 	//exam 1
 	fmt.Println("ex 1 : ", true && true)
 	fmt.Println("ex 1 : ", true && false)
