@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-func main() {
+func main5() {
 	//부동소수점 ( 실수 )
 	//float32(7자리), float64(15자리)
 
