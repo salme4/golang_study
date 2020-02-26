@@ -1,10 +1,10 @@
 package main
 
 import (
-	"math"
+	_ "math"
 )
 
-func main() {
+func main8() {
 	//exam 1
 
 	//var n1 uint8 = math.MaxUint8 + 1 //overflow
