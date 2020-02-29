@@ -4,7 +4,7 @@ import (
 	"fmt"
 )
 
-func main() {
+func main10() {
 	//문자열 표현
 	//문자열 : 기본 UTF-8 인코딩 (유니코드 문자 집합)
 

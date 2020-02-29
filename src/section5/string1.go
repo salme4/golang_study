@@ -3,7 +3,6 @@ package main
 import (
 	"fmt"
 	"unicode/utf8"
-	_ "unicode/utf8"
 )
 
 func main9() {
