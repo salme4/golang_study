@@ -4,9 +4,9 @@ import (
 	"fmt"
 )
 
-func main3()  {
+func main3() {
 	//배열 값 복사 증명
-	
+
 	//exam 1
 	arr1 := [5]int{1, 10, 100, 1000, 10000}
 	arr2 := arr1
