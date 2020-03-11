@@ -4,7 +4,7 @@ import (
 	"fmt"
 )
 
-func main() {
+func main8() {
 	//슬라이스 복사
 	//copy(복사대상, 원본)
 	//make() 로 공간 할당 후 복사해야 한다.
