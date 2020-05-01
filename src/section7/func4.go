@@ -4,7 +4,7 @@ import (
 	"fmt"
 )
 
-func main() {
+func main4() {
 	//변수지정 리턴
 
 	//exam 1
