@@ -4,7 +4,7 @@ import (
 	"fmt"
 )
 
-func main() {
+func main12() {
 	//ex 1
 	a()
 }
