@@ -1,3 +1,5 @@
 /pgk/
 bin/
 /golang.org/
+.vscode/
+pkg/
