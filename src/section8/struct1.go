@@ -15,7 +15,7 @@ func (a account) calculate() float64 {
 	return a.balance + (a.balance * a.interest)
 }
 
-func main() {
+func main5() {
 	//구조체
 	//GO 의 필드들의 집합체 또는 컨테이너
 	//필드는 갖지만 메서드는 갖지 않는다.
